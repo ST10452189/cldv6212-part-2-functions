@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\fucntions\\addcustomertotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\fucntions\\addcustomertotable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\abcretailfunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\abcretailfunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\models\\fileuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\models\\fileuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\fucntions\\uploadtoblob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\fucntions\\uploadtoblob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\fucntions\\uploadfiletoshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\fucntions\\uploadfiletoshare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\fucntions\\addmessagetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\fucntions\\addmessagetoqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|c:\\users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\abcretailfunc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C4A43B0D-D565-47FE-ABAB-150C9E0AD738}|abcretailfunc\\abcretailfunc.csproj|solutionrelative:abcretailfunc\\abcretailfunc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Models\\FileUploadRequest.cs",
+              "RelativeDocumentMoniker": "abcretailfunc\\Models\\FileUploadRequest.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Models\\FileUploadRequest.cs",
+              "RelativeToolTip": "abcretailfunc\\Models\\FileUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:54:32.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "abcretailfunc",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\abcretailfunc.csproj",
+              "RelativeDocumentMoniker": "abcretailfunc\\abcretailfunc.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\abcretailfunc.csproj",
+              "RelativeToolTip": "abcretailfunc\\abcretailfunc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T10:36:48.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Program.cs",
+              "RelativeDocumentMoniker": "abcretailfunc\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Program.cs",
+              "RelativeToolTip": "abcretailfunc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:26:18.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "abcretailfunc.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\abcretailfunc.csproj",
+              "RelativeDocumentMoniker": "abcretailfunc\\abcretailfunc.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\abcretailfunc.csproj",
+              "RelativeToolTip": "abcretailfunc\\abcretailfunc.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T10:08:19.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "abcretailfunc\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Models\\Customer.cs",
+              "RelativeToolTip": "abcretailfunc\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:12:44.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\local.settings.json",
+              "RelativeDocumentMoniker": "abcretailfunc\\local.settings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\local.settings.json",
+              "RelativeToolTip": "abcretailfunc\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T09:55:29.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadFileToShare.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\UploadFileToShare.cs",
+              "RelativeDocumentMoniker": "abcretailfunc\\Fucntions\\UploadFileToShare.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\UploadFileToShare.cs",
+              "RelativeToolTip": "abcretailfunc\\Fucntions\\UploadFileToShare.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:51:40.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMessageToQueue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\AddMessageToQueue.cs",
+              "RelativeDocumentMoniker": "abcretailfunc\\Fucntions\\AddMessageToQueue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\AddMessageToQueue.cs",
+              "RelativeToolTip": "abcretailfunc\\Fucntions\\AddMessageToQueue.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAnwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:51:13.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadToBlob.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\UploadToBlob.cs",
+              "RelativeDocumentMoniker": "abcretailfunc\\Fucntions\\UploadToBlob.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\UploadToBlob.cs",
+              "RelativeToolTip": "abcretailfunc\\Fucntions\\UploadToBlob.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAewDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:50:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCustomerToTable.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\AddCustomerToTable.cs",
+              "RelativeDocumentMoniker": "abcretailfunc\\Fucntions\\AddCustomerToTable.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\abcretailfunc\\abcretailfunc\\Fucntions\\AddCustomerToTable.cs",
+              "RelativeToolTip": "abcretailfunc\\Fucntions\\AddCustomerToTable.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwHMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:49:37.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
